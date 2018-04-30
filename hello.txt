@@ -2,3 +2,4 @@ print('hello world')
 print('i wanna fly')
 !!!!
 print('what ever')
+#now I just learn how to use git and use visual studio code to push/add/log/commit
